@@ -1,5 +1,5 @@
 
-# 🎵 Spotfy-clone
+#  Spotfy-clone
 
 A simple Spotify clone built using HTML and CSS, focusing on replicating the design. This project is purely front-end and includes no functionality.
 ## Live Demo
